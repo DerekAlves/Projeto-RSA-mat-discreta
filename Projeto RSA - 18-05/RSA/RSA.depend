@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526616760 source:c:\users\derek alves\desktop\projeto rsa - 18-05\rsa\rsa1605.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
