@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1526616760 source:c:\users\derek alves\desktop\projeto rsa - 18-05\rsa\rsa1605.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1526616881 source:c:\users\roger\desktop\projeto-rsa-mat-discreta-master\projeto rsa - 18-05\rsa\rsa1605.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1526841933 source:c:\users\derek alves\downloads\projeto-rsa-mat-discreta-master(1)\projeto-rsa-mat-discreta-master\projeto-rsa-mat-discreta-master\projeto rsa - 18-05\rsa\rsa1605.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1526848610 source:c:\users\derek alves\desktop\rsa - copia\rsa1605.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1526864358 source:c:\users\derek alves\desktop\rsa - 20-05\rsa1605.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1526867806 source:c:\users\derek alves\desktop\rsa - 20-05 - copia\rsa1605.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
